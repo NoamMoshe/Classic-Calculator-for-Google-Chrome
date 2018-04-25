@@ -1,7 +1,5 @@
 # Google-chrome-extensions
-In this repo one can find Useful Google Chrome extensions. 
-
-In order to aaply (source: https://developer.chrome.com/extensions/getstarted):
+In this repo one can find Useful Google Chrome extensions. To aaply (source: https://developer.chrome.com/extensions/getstarted):
 
    #1.Open the Extension Management page by navigating to chrome://extensions.
 
