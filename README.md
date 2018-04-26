@@ -1,5 +1,5 @@
-# Google-chrome-extensions
-In this repo one can find Useful Google Chrome extensions. To aaply (source: https://developer.chrome.com/extensions/getstarted):
+# Classic Calculator for Google Chrome (extension)
+In this repo one can find a "Classic" calculator for Google Chrome (extension). To aaply (source: https://developer.chrome.com/extensions/getstarted):
 
    #1.Open the Extension Management page by navigating to chrome://extensions.
 
